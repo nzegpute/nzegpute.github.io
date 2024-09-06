@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://nzegpute.github.io/sitemap/sitemap.txt
